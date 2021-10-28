@@ -38,6 +38,8 @@ func main() {
 	for _, i := range states {
 		fmt.Println(i)
 	}
+
+	fmt.Println("Aenderungen für den Github Dummy")
 }
 
 func changeResult(result *float64) {
